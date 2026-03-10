@@ -105,3 +105,9 @@ html, body {
 .orderly-app-container *::after {
   font-family: 'Manrope', sans-serif !important;
 }
+
+.oui-inline-flex.oui-items-center.oui-font-semibold.oui-px-2.oui-text-2xs.oui-rounded.oui-text-primary {
+  color: #56adff;
+  background-color: rgb(10 43 73);
+}
+
